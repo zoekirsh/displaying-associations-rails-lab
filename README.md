@@ -32,7 +32,4 @@ snippet, which obeys the Law of Demeter, hides that complexity in the
 `User#best_friend` method, whose definition can be changed without having to
 track down and update every single usage.
 
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/displaying-associations-rails-lab'>Displaying Associations Data Lab</a> on Learn.co and start learning to code for free.</p>
-
 [demeter]: https://en.wikipedia.org/wiki/Law_of_Demeter
