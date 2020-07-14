@@ -1,4 +1,4 @@
-# Displaying Associations Rails
+# Displaying Associations Rails Lab
 
 In the previous unit, we used validations and forms to create a management
 dashboard for songs and artists. Now we're ready to start connecting those
